@@ -1,7 +1,7 @@
 package dortUc.business.concrete;
 
 import dortUc.business.abstracts.IGamerService;
-import dortUc.entities.Gamer;
+import dortUc.entities.concrete.Gamer;
 
 public class GamerManager implements IGamerService {
 

@@ -1,6 +1,6 @@
 package dortUc.business.abstracts;
 
-import dortUc.entities.Gamer;
+import dortUc.entities.concrete.Gamer;
 
 public interface IGamerService {
 

@@ -1,4 +1,6 @@
-package dortUc.entities;
+package dortUc.entities.concrete;
+
+import dortUc.entities.IGamer;
 
 public class Gamer implements IGamer {
 int id;
